@@ -13,7 +13,7 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 
 The following is a list of our current product areas:
 
-- **api:** The Qrono Booking [API] & Documentation (https://docs.qrono.dev/)
+- **api:** The Qrono Booking [API](https://docs.qrono.dev/) & Documentation
 - **dashboard:** The [Dashboard site](https://qrono.dev/dashboard), for managing Qrono data and settings in the browser
 - **pages:** For the Qrono-hosted Booking Pages, hosted at book.qrono.dev/<account_handle>
 - **elements:** For Qrono Elements -- our customizable frontend tools for booking and scheduling
